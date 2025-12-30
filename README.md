@@ -38,6 +38,7 @@ CoinGecko is a leading cryptocurrency data aggregator providing reliable, real-t
 - Engineered features: liquidity ratios, returns, volatility metrics, time components
 
 ### Dataset Characteristics
+<img width="988" height="547" alt="download" src="https://github.com/user-attachments/assets/cd2e3f23-f6bc-4944-bbb6-fa8cdfd84b9f" />
 
 | Coin | Records | Date Range | Avg Market Cap | Data Quality |
 |------|---------|------------|----------------|--------------|
@@ -87,20 +88,27 @@ Assessed growth stability across quarterly periods
 - Executive summary metrics (launch timing, active quarters, best/worst performance periods)
 
 ### 6. **Visualization Suite**
+<img width="1389" height="590" alt="download" src="https://github.com/user-attachments/assets/ca4c95a7-8577-4a91-8386-ad4bc0e30c80" />
 Created comprehensive visual analytics:
 - Sharpe ratio comparisons (daily vs annualized)
 - Quarterly market cap trends
 - Volatility share area charts
 - Comparative bar charts for returns, volatility, and market cap
 - Time-series analysis of asset evolution
+  
 
 ---
 
 ## 💡 Key Findings & Final Inference
+<img width="562" height="435" alt="download" src="https://github.com/user-attachments/assets/06c1e858-86ce-4f31-b465-28e2ababc70f" />
+
+
 
 ### **ETH (Ethereum) - The Benchmark Asset 🏆**
 - **Market Position:** Dominant with deepest liquidity (3,707 records, 41 active quarters)
 - **Average Market Cap:** ~$151B with peak at ~$485B (2021Q4)
+  <img width="686" height="489" alt="download" src="https://github.com/user-attachments/assets/b0f31451-8053-4e10-9674-9fddb1f4fb93" />
+
 - **Risk Profile:** 
   - Moderate volatility (1.58 QoQ)
   - Maximum Drawdown: -92% (significant historical risk)
@@ -122,18 +130,26 @@ Created comprehensive visual analytics:
 ---
 
 ### **MON - The Thin Liquidity Anomaly 🚨**
+<img width="700" height="470" alt="download" src="https://github.com/user-attachments/assets/69416e43-41ed-4f65-ae87-33528289735f" />
+
 - **Market Position:** Late entrant with minimal history (3 records, 1 quarter)
 - **Average Market Cap:** ~$0.38B (negligible compared to peers)
-- **Risk Profile:**
+  
+**Risk Profile:**
   - Liquidity Ratio: 1.88 (extremely high - signals thin market depth)
   - Sharpe Ratio: 11.2 (annualized) - anomalously high but unreliable
   - Negligible drawdown (~0%) due to data sparsity
   - Zero measurable QoQ volatility
+  - Compared to BNB,ETH MON gives high returns( in crypto high returns is not always safe and gaurenteed stability)
+    <img width="576" height="474" alt="download" src="https://github.com/user-attachments/assets/fc064344-169d-4f78-8ca4-84c57c1b1f88" />
+    
 - **Verdict:** ❌ **High-risk outlier with unreliable metrics** - insufficient historical data makes this asset unsuitable for informed investment decisions
 
 ---
 
 ## 🎓 Business Implications
+<img width="691" height="489" alt="download" src="https://github.com/user-attachments/assets/54cef8ab-3859-4088-b8c8-43f7e841a755" />
+
 
 ### Investment Strategy Recommendations
 
@@ -142,6 +158,7 @@ Created comprehensive visual analytics:
 3. **Speculative Positions:** Avoid MON until sufficient market maturity is established
 
 ### Risk Management Insights
+<img width="691" height="489" alt="download" src="https://github.com/user-attachments/assets/3c1fbc0f-4dfe-4de1-9960-ca62e1ccb5c0" />
 
 - **Liquidity Risk:** MON's thin market depth poses significant exit strategy challenges
 - **Volatility Exposure:** BNB requires active monitoring and stop-loss mechanisms
