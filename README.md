@@ -38,7 +38,6 @@ CoinGecko is a leading cryptocurrency data aggregator providing reliable, real-t
 - Engineered features: liquidity ratios, returns, volatility metrics, time components
 
 ### Dataset Characteristics
-<img width="988" height="547" alt="download" src="https://github.com/user-attachments/assets/cd2e3f23-f6bc-4944-bbb6-fa8cdfd84b9f" />
 
 | Coin | Records | Date Range | Avg Market Cap | Data Quality |
 |------|---------|------------|----------------|--------------|
@@ -99,9 +98,6 @@ Created comprehensive visual analytics:
 ---
 
 ## 💡 Key Findings & Final Inference
-<img width="562" height="435" alt="download" src="https://github.com/user-attachments/assets/06c1e858-86ce-4f31-b465-28e2ababc70f" />
-
-
 
 ### **ETH (Ethereum) - The Benchmark Asset 🏆**
 - **Market Position:** Dominant with deepest liquidity (3,707 records, 41 active quarters)
@@ -128,8 +124,6 @@ Created comprehensive visual analytics:
 ---
 
 ### **MON - The Thin Liquidity Anomaly 🚨**
-<img width="700" height="470" alt="download" src="https://github.com/user-attachments/assets/69416e43-41ed-4f65-ae87-33528289735f" />
-
 - **Market Position:** Late entrant with minimal history (3 records, 1 quarter)
 - **Average Market Cap:** ~$0.38B (negligible compared to peers)
   
@@ -138,19 +132,13 @@ Created comprehensive visual analytics:
   - Sharpe Ratio: 11.2 (annualized) - anomalously high but unreliable
   - Negligible drawdown (~0%) due to data sparsity
   - Zero measurable QoQ volatility
-  - Compared to BNB,ETH MON gives high returns( in crypto high returns is not always safe and gaurenteed stability)
+  - Compared to BNB,ETH MON gives high returns( in crypto high returns is not always safe and gaurenteed stability.
 
-    <img width="576" height="474" alt="download" src="https://github.com/user-attachments/assets/fc064344-169d-4f78-8ca4-84c57c1b1f88" />
-    
 - **Verdict:** ❌ **High-risk outlier with unreliable metrics** - insufficient historical data makes this asset unsuitable for informed investment decisions
 
 ---
 
 ## 🎓 Business Implications
-<img width="691" height="489" alt="download" src="https://github.com/user-attachments/assets/54cef8ab-3859-4088-b8c8-43f7e841a755" />
-
-<img width="691" height="489" alt="download" src="https://github.com/user-attachments/assets/3c1fbc0f-4dfe-4de1-9960-ca62e1ccb5c0" />
-
 
 ### Investment Strategy Recommendations
 
